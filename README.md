@@ -4,7 +4,7 @@ APES
 [![Build Status](https://travis-ci.org/btcsuite/APES.png?branch=master)](https://travis-ci.org/btcsuite/btcwallet)
 [![Build status](https://ci.appveyor.com/api/projects/status/88nxvckdj8upqr36/branch/master?svg=true)](https://ci.appveyor.com/project/jrick/APES/branch/master)
 
-APESis a daemon handling bitcoin wallet functionality for a
+APES is a daemon handling bitcoin wallet functionality for a
 single user.  It acts as both an RPC client to btcd and an RPC server
 for wallet clients and legacy RPC applications.
 
