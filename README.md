@@ -1,4 +1,4 @@
-btcwallet
+APES
 =========
 
 [![Build Status](https://travis-ci.org/btcsuite/btcwallet.png?branch=master)](https://travis-ci.org/btcsuite/btcwallet)
